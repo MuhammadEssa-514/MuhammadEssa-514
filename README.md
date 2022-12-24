@@ -6,8 +6,11 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  
+  <img src="https://i.gifer.com/origin/40/40347e3f2bc01b8790a3c7278f39447b_w200.gif" height="90vh" width="100%"> <br>
+   <img align="center" src="https://acegif.com/wp-content/uploads/gifs/fire-17.gif" height="50vh" width="100%"/>
+  
+<!--   <img src="[https://i.pinimg.com/originals/d7/24/5d/d7245da82c095134925a2bfeb87de316.gif](https://i.gifer.com/origin/40/40347e3f2bc01b8790a3c7278f39447b_w200.gif)"> -->
 </div>
 </p>
 
@@ -52,7 +55,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadessa-514&show_icons=true&locale=en" alt="muhammadessa-514" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadessa-514&" alt="muhammadessa-514" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadessa-514&" alt="muhammadessa-514"/></p>
 
 
 
@@ -61,5 +64,8 @@
 
  [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
  
+<img align="center" src="https://acegif.com/wp-content/uploads/gifs/fire-17.gif" height="40vh" width="100%"/>
 
 ****
+
+
