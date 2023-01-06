@@ -79,7 +79,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=MuhammadEssa-514&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Sultan Muhammad Essa)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- [![](https://gtce.itsvg.in/api?username=Sultan Muhammad Essa)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MuhammadEssa-514&icon=7&color=0)](https://visitcount.itsvg.in)
