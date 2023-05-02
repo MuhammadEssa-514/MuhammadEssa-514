@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile sultan" />
- <img src="https://i.gifer.com/origin/fe/fe21131ce60cd8093f4fcf752eac7963_w200.gif"/>
+<!--  <img src="https://i.gifer.com/origin/fe/fe21131ce60cd8093f4fcf752eac7963_w200.gif"/> -->
   
   
   
@@ -19,7 +19,7 @@
   
 
   
-  <img src="https://i.pinimg.com/originals/3a/ac/dd/3aacdd0a765a1346a3fc2457aa0a7df6.gif"/>
+<!--   <img src="https://i.pinimg.com/originals/3a/ac/dd/3aacdd0a765a1346a3fc2457aa0a7df6.gif"/> -->
  
 
 <br>
@@ -28,7 +28,7 @@
 <div align="center">
   
   <img src="https://i.pinimg.com/originals/17/a9/00/17a900d73f0a8091413037a6f8ffb5f1.gif" height="90vh" width="100%"> <br>
-   <img align="center" src="https://d2w9rnfcy7mm78.cloudfront.net/9987911/original_026fc0b61e323aff95685b0331d518da.gif?1608653922" height="100vh" width="100%"/>
+<!--    <img align="center" src="https://d2w9rnfcy7mm78.cloudfront.net/9987911/original_026fc0b61e323aff95685b0331d518da.gif?1608653922" height="100vh" width="100%"/> -->
   
 </div>
 </p>
