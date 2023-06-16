@@ -106,13 +106,11 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 
 </div>
   
   <!-- Footer -->
  
-<img align="center" src="https://d2w9rnfcy7mm78.cloudfront.net/9987911/original_026fc0b61e323aff95685b0331d518da.gif?1608653922" height="90vh" width="100%"/>
 
 
 
