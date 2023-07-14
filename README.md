@@ -17,6 +17,7 @@
    <img src="https://i.gifer.com/origin/fe/fe21131ce60cd8093f4fcf752eac7963_w200.gif" height="100vh"/>
    <img src="https://i.gifer.com/origin/fe/fe21131ce60cd8093f4fcf752eac7963_w200.gif" height="100vh"/>
 
+<img src="https://github.com/taniyow/taniyow/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
   
 
   
