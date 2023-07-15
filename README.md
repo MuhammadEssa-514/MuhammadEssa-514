@@ -8,17 +8,8 @@
   <h1 align="center">Hi 👋, I'm Muhammad Essa 514</h1>
 
 <h3 align="center">Frontend Web Developer In Custom || WordPress Developer</h3>
-  
-   <img src="https://i.gifer.com/origin/fe/fe21131ce60cd8093f4fcf752eac7963_w200.gif" height="100vh"/>
-   <img src="https://i.gifer.com/origin/fe/fe21131ce60cd8093f4fcf752eac7963_w200.gif" height="100vh"/>
-   <img src="https://i.gifer.com/origin/fe/fe21131ce60cd8093f4fcf752eac7963_w200.gif" height="100vh"/>
-   <img src="https://i.gifer.com/origin/fe/fe21131ce60cd8093f4fcf752eac7963_w200.gif" height="100vh"/>
-   <img src="https://i.gifer.com/origin/fe/fe21131ce60cd8093f4fcf752eac7963_w200.gif" height="100vh"/>
-   <img src="https://i.gifer.com/origin/fe/fe21131ce60cd8093f4fcf752eac7963_w200.gif" height="100vh"/>
-   <img src="https://i.gifer.com/origin/fe/fe21131ce60cd8093f4fcf752eac7963_w200.gif" height="100vh"/>
 
-   <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg"/>
-
+ <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg"/>
 <img src="https://github.com/taniyow/taniyow/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
 
@@ -82,16 +73,10 @@
 </div>
 </p>
 
-
-
-<br><br><br><br><br>
-<img src="https://lh3.googleusercontent.com/Ew7xMlpcHhsOKfJB25HfKYgmpkfPTGvOPL-9JERL-x0j3H98crueLTtkmLOr4mIyAcMbhaib8wCbte1VVEGx7xV4eSs=w640-h400-e365-rj-sc0x00ffffff" alt="graph" style="max-width: 100%;">
-
 <!-- 
  [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev) -->
  
  
-  <img src="https://thumbs.gfycat.com/DaringEnormousBorderterrier-size_restricted.gif" height="200vh" width="100%"/>
   
   <!-- Footer -->
   
